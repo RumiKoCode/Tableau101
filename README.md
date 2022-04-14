@@ -9,6 +9,10 @@ Tableau学习的一些练习和总结（including my Tableau learning exercises 
 # Dashboard数据看板
 # Story
 # 典型业务场景
+# 补充工具
+## Figma
+## Blender
+——————
 # 学习资源
 
 
